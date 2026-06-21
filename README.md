@@ -248,9 +248,12 @@ If you have any questions regarding this Privacy Policy, contact us:
 <b>Email:</b> renardpublishers@gmail.com
 </p>
 
+
+<center> 
 <p>
 © Play Heaven Games. All Rights Reserved.
 </p>
+</center>    
 
 </div>
 
